@@ -1,5 +1,2 @@
 /EPvenv
-/EPvenv/bin
-/EPvenv/lib/python3.7/site-packages
-/EPvenv/pyenv.cfg
 .vscode
